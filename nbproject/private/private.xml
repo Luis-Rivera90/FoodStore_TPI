@@ -7,12 +7,12 @@
             <file>file:/C:/Users/Luis/Desktop/UTN/Segundo%20Semestre/Programación%20II/Proyectos/FoodStore_TPI/src/foodstore/services/UsuarioService.java</file>
             <file>file:/C:/Users/Luis/Desktop/UTN/Segundo%20Semestre/Programación%20II/Proyectos/FoodStore_TPI/src/foodstore/services/PedidoService.java</file>
             <file>file:/C:/Users/Luis/Desktop/UTN/Segundo%20Semestre/Programación%20II/Proyectos/FoodStore_TPI/src/foodstore/services/CategoriaService.java</file>
-            <file>file:/C:/Users/Luis/Desktop/UTN/Segundo%20Semestre/Programación%20II/Proyectos/FoodStore_TPI/src/foodstore/entities/Categoria.java</file>
-            <file>file:/C:/Users/Luis/Desktop/UTN/Segundo%20Semestre/Programación%20II/Proyectos/FoodStore_TPI/src/foodstore/entities/Pedido.java</file>
-            <file>file:/C:/Users/Luis/Desktop/UTN/Segundo%20Semestre/Programación%20II/Proyectos/FoodStore_TPI/src/foodstore/entities/Producto.java</file>
-            <file>file:/C:/Users/Luis/Desktop/UTN/Segundo%20Semestre/Programación%20II/Proyectos/FoodStore_TPI/src/foodstore/entities/Usuario.java</file>
             <file>file:/C:/Users/Luis/Desktop/UTN/Segundo%20Semestre/Programación%20II/Proyectos/FoodStore_TPI/src/foodstore/menu/MenuPrincipal.java</file>
             <file>file:/C:/Users/Luis/Desktop/UTN/Segundo%20Semestre/Programación%20II/Proyectos/FoodStore_TPI/src/foodstore/Main.java</file>
+            <file>file:/C:/Users/Luis/Desktop/UTN/Segundo%20Semestre/Programación%20II/Proyectos/FoodStore_TPI/src/foodstore/entities/Base.java</file>
+            <file>file:/C:/Users/Luis/Desktop/UTN/Segundo%20Semestre/Programación%20II/Proyectos/FoodStore_TPI/src/foodstore/exception/DatoInvalidoException.java</file>
+            <file>file:/C:/Users/Luis/Desktop/UTN/Segundo%20Semestre/Programación%20II/Proyectos/FoodStore_TPI/src/foodstore/exception/StockInvalidoException.java</file>
+            <file>file:/C:/Users/Luis/Desktop/UTN/Segundo%20Semestre/Programación%20II/Proyectos/FoodStore_TPI/src/foodstore/entities/Producto.java</file>
         </group>
     </open-files>
 </project-private>

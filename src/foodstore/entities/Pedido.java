@@ -10,6 +10,7 @@ import java.util.Collections;
 import java.util.Iterator;
 import java.util.List;
 import foodstore.enums.*;
+import foodstore.exception.StockInvalidoException;
 import foodstore.interfaces.Calculable;
 
 /**
@@ -79,8 +80,15 @@ public class Pedido extends Base implements Calculable{
     
     //Métodos
     
-    public void addDetallePedido(int cantidad, Producto producto){
+    public void addDetallePedido(int cantidad, Producto producto) {
+        if (cantidad <= 0) {
+            throw new IllegalArgumentException("La cantidad debe ser mayor a cero.");
+        }
+        if (producto.getStock() < cantidad) {
+            throw new StockInvalidoException("Stock insuficiente. Stock disponible: " + producto.getStock());
+        }
         detalles.add(new DetallePedido(cantidad, producto));
+        producto.actualizarStock(producto.getStock() - cantidad);
         calcularTotal();
     }
     
