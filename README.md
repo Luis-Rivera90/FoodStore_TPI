@@ -20,10 +20,10 @@ Sistema de gestión de pedidos para tienda de alimentos desarrollado en Java con
 3. Ejecutar `Main.java`
 
 ## Video demostrativo
-[Link al video](#)
+[[Link al video](https://drive.google.com/drive/u/0/folders/1rp4hQoZPiOi5HvlT9vpiIesRTb77Gc86)](#)
 
 ## Documentación PDF
-[Link al PDF](#)
+[[Link al PDF](https://drive.google.com/drive/u/0/folders/1rp4hQoZPiOi5HvlT9vpiIesRTb77Gc86)](#)
 
 ## Autor
 Luis Rivera - UTN Tecnicatura en Programación - 2026
